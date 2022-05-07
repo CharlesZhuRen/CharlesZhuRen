@@ -5,7 +5,7 @@
 - 📫 My email: CharlesZhuRen@gmail.com
 
 News:
-- Ranked 15th in 2022 National Software and Information Technology Professional Competition (Python Programming)
+- Ranked 15th in 2022 National Software and Information Technology Professional Competition (Python Programming Track)
 - Meritorious Winner in 2022 Mathematical Contest in Modeling
 
 <!---
