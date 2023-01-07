@@ -7,7 +7,7 @@
 News:
 - Ranked 15th in 2022 National Software and Information Technology Professional Competition (Python Programming Track)
 - Meritorious Winner in 2022 Mathematical Contest in Modeling
-- Have been admitted to CUHK@MSCS (23 Fall), which is the 10th best CS programme in the world (accordind to USNEWS)
+- Have been admitted to CUHK@MSCS (23 Fall), which is the 10th best CS programme in the world (according to USNEWS)
 
 <!---
 CharlesZhuRen/CharlesZhuRen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
