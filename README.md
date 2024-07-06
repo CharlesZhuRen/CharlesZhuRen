@@ -4,7 +4,7 @@
 - 💞️ I interned at [Gematria](https://gematria.tech/) for 4 months
   
 - 😇 Language: Java, Python, SQL, C++, Go
-- 🛠️ Framework: Spring Cloud, Spring Boot, Vue.js, Node.js, PyTorch, Flask, SQLite, MySQL, Nginx
+- 🛠️ Framework: Spring Cloud, Spring Boot, Vue.js, Node.js, PyTorch, Flask, SQLite, MySQL, Nginx, ServiceComb
 - 🔧 Tool: Git, Docker, VS Code, Bash, IDEA/PyCharm/Clion/GoLand, Jupyter Notebook, Matlab
 
 News:
