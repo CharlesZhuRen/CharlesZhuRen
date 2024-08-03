@@ -3,9 +3,8 @@
 - 👀 I’m studying at [CUHK-CSE](https://www.cse.cuhk.edu.hk/)
 - 💞️ I interned at [Gematria](https://gematria.tech/) for 4 months
   
-- 😇 Language: Java, Python, SQL, C++, Go
-- 🛠️ Framework: Spring Cloud, Spring Boot, Vue.js, Node.js, PyTorch, Flask, SQLite, MySQL, Nginx, ServiceComb
-- 🔧 Tool: Git, Docker, VS Code, Bash, IDEA/PyCharm/Clion/GoLand, Jupyter Notebook, Matlab
+- 😇 Language: Java, Python
+- 🛠️ Framework: Spring, Vue.js, PyTorch
 
 News:
 - (2024.6) Joined Huawei as a software engineer intern
