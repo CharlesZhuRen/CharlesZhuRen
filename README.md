@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [@CharlesZhuRen](github.com/CharlesZhuRen)
-- 🌼 I'm interning at [Huawei](https://www.huawei.com/en/)
-- 👀 I’m studying at [CUHK-CSE](https://www.cse.cuhk.edu.hk/)
-- 💞️ I interned at [Gematria](https://gematria.tech/) for 4 months
+- 👀 I graduated from [CUHK-CSE](https://www.cse.cuhk.edu.hk/) with a Master's degree.
+- 💞️ I interned at [Gematria](https://gematria.tech/) and [Huawei](https://www.huawei.com/en/).
   
 - 😇 Language: Java, Python
 - 🛠️ Framework: Spring, Vue.js, PyTorch
