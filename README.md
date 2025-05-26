@@ -1,3 +1,4 @@
+Software Engineer
 <!--
 - 👋 Hi, I’m [@CharlesZhuRen](github.com/CharlesZhuRen)
 - 👀 I graduated from [CUHK-CSE](https://www.cse.cuhk.edu.hk/) with a Master's degree.
